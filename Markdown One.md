@@ -43,4 +43,4 @@ public class Main {
 |Hello     |Hello       |Hello      |
 |World     |World       |World      |
 
-:heart: :anger: :thumbsup: :thumbsdown: :punch: :v: :hand: :clap: :muscle: :coffe: :tea: :octocat: :sushi: :jp: :us: :uk: 
+:heart: :anger: :thumbsup: :thumbsdown: :punch: :v: :hand: :clap: :muscle: :coffee: :tea: :octocat: :sushi: :jp: :us: :uk: 

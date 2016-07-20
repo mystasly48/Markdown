@@ -26,7 +26,7 @@
 
 [リンク](https://twitter.com)
 
-```csharp:シンタックスハイライト
+```cs
 public class Main {
   public static void main(string[] args) {
     Console.WriteLine("Hello, World!");
@@ -36,5 +36,11 @@ public class Main {
 
 出力には `Console.WriteLine(string);` を使用します。
 
+![Microsoft Visual C#](http://biz-crew.com/wp-content/uploads/2015/06/csharp-logo.png)
 
+|Left align|Center align|Right align|
+|:---------|:----------:|----------:|
+|Hello     |Hello       |Hello      |
+|World     |World       |World      |
 
+:heart: :anger: :thumbsup: :thumbsdown: :punch: :v: :hand: :clap: :muscle: :coffe: :tea: :octocat: :sushi: :jp: :us: :uk: 

@@ -18,8 +18,6 @@
 
 ***太字&斜体***
 
-下線... なんてなかった。
-
 10<sub>3</sub>
 
 10<sup>3</sup>
@@ -43,7 +41,7 @@ public class Main {
 |Hello     |Hello       |Hello      |
 |World     |World       |World      |
 
-:heart: :anger: :thumbsup: :thumbsdown: :punch: :v: :hand: :clap: :muscle: :coffee: :tea: :octocat: :sushi: :jp: :us: :uk: 
+:heart: :anger: :thumbsup: :thumbsdown: :punch: :v: :hand: :clap: :muscle: :coffee: :tea: :octocat: :sushi: :jp: :us: :uk:
 
 1. 番号ありの要素（１）
 2. 番号ありの要素（２）
@@ -60,7 +58,9 @@ public class Main {
 2. 番号ありの要素（２）
  1. 番号ありの要素（１）
 
-これは  
-改行が  
-できてるの  
-だろうか  
+これは
+改行が
+できてるの
+だろうか
+アハーン
+アハーン
